@@ -32,7 +32,4 @@ data = yf.download(tickers, start="2020-01-01", end="2023-01-01")
 # Access the 'Close' prices
 data = data['Close']
 
----
 
-You can now upload these `README.md` files along with your notebooks to GitHub! 🚀 Let me know if you need any modifications.
-# Portfolio-Optimisation
